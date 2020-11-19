@@ -1,7 +1,7 @@
 # discoverkorea
 
 Lihat Branch untuk file detail program ini...
-website: www.discoverkorea.com
+website: www.discoverkorea.site
 Abstrak
 Media sosial saat ini sudah menjadi salah satu media informasi yang cukup penting untuk beberapa kebutuhan. Salah satu contoh kasus yang membutuhkan media sosial sebagai media informasi adalah kegiatan aktifitas sosial yang terjadi di masyarakat. Banyak produk yang tersedia di pasaran tetapi jarang yang mengangkat tema tertentu untuk mengumpulkan sebuah komunitas dalam suatu wadah dimana mereka dapat berkumpul dan fokus kepada sebuah topik luas yang mengangkat sebuah kebudayaan disuatu negara. Korea adalah sebuah negara yang terkenal dengan musik K-pop dan K-dramanya. Seiring berkembangnya potensi musik mereka, hingga menyebar ke banyak negara salah satunya adalah Indonesia. Terdapat banyak penggemar dari seluruh lapisan masyarakat. Belum adanya sosial media yang memiliki topik spesifik tentang Korea itu sendiri. Selain masyarakat yang ingin melihat Kpop, banyak masyarakat yang ingin mempelajari budaya korea itu sendiri. 
 
